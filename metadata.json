@@ -1,0 +1,10 @@
+{
+	"name" : "Favorites-only Dash",
+	"description" : "Show only favorite apps on Dash",
+	"shell-version" : [
+		"3.38"
+	],
+	"url" : "",
+	"uuid" : "favorites-only-dash@nahuelwexd.github.io",
+	"version" : 1
+}
